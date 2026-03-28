@@ -1,15 +1,13 @@
 # Hi, I'm Tushar Singh 👋
-### Senior Credit Risk Lead | Fintech Data Strategist
 
-I bridge the gap between institutional banking rigor and modern data science. 
-Currently a Scale-III Manager at SBI, managing ₹120Cr+ portfolios while 
-pivoting towards automated, AI-first risk infrastructure.
+Credit risk analytics professional · Scale-III Branch Manager at SBI · 7 years in SME, Agri & retail lending
 
-- 🛠 **Tech Stack:** Python (Pandas, Numpy), SQL, Power BI
-- 📊 **Stats:** Analyzed 600K+ row datasets to identify risk-inflection points.
-- 🎯 **Focus:** Expected Credit Loss (ECL) Modeling, Roll-rate Analytics, & Fraud Detection.
-- 📈 **Impact:** Led a ₹120Cr+ portfolio with a 152% growth achievement while maintaining industry-leading risk controls.
+I manage a ₹120Cr+ portfolio at SBI and build structured analytics on the side — loss decomposition, pricing diagnostics, and risk segmentation on real lending datasets.
 
-I am currently exploring Senior Risk Analytics and Credit Strategy roles in the Fintech/NBFC space.
+**Stack:** Python (pandas, NumPy, matplotlib, seaborn) · SQL · Power BI  
+**Domain:** Credit underwriting · Portfolio risk · Loan pricing · Borrower segmentation  
+**Latest:** Analysed 500K Lending Club loans — identified interest rate inflection at 16–18% where pricing stops compensating for default risk
 
-[LinkedIn](www.linkedin.com/in/tushar-singh1331) | [Email](mailto:tusharbhaal13@gmail.com)
+Currently exploring Credit Risk Analytics and Portfolio Strategy roles.
+
+[LinkedIn](https://www.linkedin.com/in/tushar-singh1331/) · [Email](mailto:tusharbhaal13@gmail.com)
