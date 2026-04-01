@@ -2,11 +2,11 @@
 
 Credit risk analytics professional · Scale-III Branch Manager at SBI · 7 years in SME, Agri & retail lending
 
-I manage a ₹120Cr+ portfolio at SBI and build structured analytics on the side — loss decomposition, pricing diagnostics, and risk segmentation on real lending datasets.
+I manage a ₹120Cr+ portfolio at SBI and build structured analytics on the side — loss decomposition, pricing diagnostics, risk segmentation, and predictive credit scoring on real lending datasets.
 
-**Stack:** Python (pandas, NumPy, matplotlib, seaborn) · SQL · Power BI  
+**Stack:** Python (pandas, NumPy, matplotlib, seaborn, scikit-learn, XGBoost, SHAP) · SQL · Power BI  
 **Domain:** Credit underwriting · Portfolio risk · Loan pricing · Borrower segmentation  
-**Latest:** Analysed 500K Lending Club loans — identified interest rate inflection at 16–18% where pricing stops compensating for default risk
+**Latest:** Built end-to-end credit risk framework on 500K Lending Club loans — portfolio diagnostics, predictive scoring, and STOP/START policy recommendations
 
 Currently exploring Credit Risk Analytics and Portfolio Strategy roles.
 
